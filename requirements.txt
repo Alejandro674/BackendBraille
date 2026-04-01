@@ -22,11 +22,9 @@ packaging==25.0
 pillow==12.0.0
 pyparsing==3.2.5
 PyPDF2==3.0.1
-pypiwin32==223
 python-dateutil==2.9.0.post0
 python-docx==1.2.0
 pyttsx3==2.99
-pywin32==311
 reportlab==4.4.4
 scikit-learn==1.7.2
 scipy==1.15.3
